@@ -2,7 +2,7 @@
   "name": "pepezao-vscode-theme",
   "displayName": "pepezao-vscode-theme",
   "description": "Pepezao VSCode Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "pepezao",
   "engines": {
     "vscode": "^1.115.0"
@@ -25,5 +25,9 @@
         "path": "./themes/Pepezao VSCode Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pepezaoo/Pepezao-VSCode-Theme.git"
   }
 }
