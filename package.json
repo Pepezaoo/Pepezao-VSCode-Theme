@@ -1,0 +1,29 @@
+{
+  "name": "pepezao-vscode-theme",
+  "displayName": "pepezao-vscode-theme",
+  "description": "Pepezao VSCode Theme",
+  "version": "0.0.1",
+  "publisher": "pepezao",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [ 
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "pepezao",
+    "pepezao theme",
+    "dark theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pepezao VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pepezao VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
