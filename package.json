@@ -2,12 +2,12 @@
   "name": "pepezao-vscode-theme",
   "displayName": "pepezao-vscode-theme",
   "description": "Pepezao VSCode Theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "pepezao",
   "engines": {
     "vscode": "^1.115.0"
   },
-  "categories": [ 
+  "categories": [
     "Themes"
   ],
   "keywords": [
