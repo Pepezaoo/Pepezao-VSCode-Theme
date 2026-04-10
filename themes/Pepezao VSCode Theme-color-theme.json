@@ -113,6 +113,16 @@
       }
     },
     {
+      "name": "JSX Text",
+      "scope": [
+        "text.html.jsx",
+        "meta.jsx.children"
+      ],
+      "settings": {
+        "foreground": "#c9c9c9"
+      }
+    },
+    {
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
